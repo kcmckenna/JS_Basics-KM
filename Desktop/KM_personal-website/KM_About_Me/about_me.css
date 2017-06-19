@@ -1,0 +1,56 @@
+body{
+  background-image: url(background_image.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: ghostwhite;
+  width: 100%;
+}
+
+p {
+  float: left;
+	font-family: "Helvetica";
+	line-height: 20px;
+  text-align: right;
+}
+
+img.me {
+  float: left;
+  display: block;
+  height: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 100px;
+}
+
+img.background_thing {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 300px:;
+}
+
+h1 {
+	color: lightslategray;
+	font-family: "Helvetica";
+  background-color: lightgray;
+	text-align: left;
+  padding: 20px;
+  margin-bottom: 6px;
+}
+
+ul {
+  font-family: "Helvetica";
+  text-align: center;
+  list-style: none;
+
+}
+
+a {
+  font-family: "Helvetica";
+  text-align: center;
+}
+
+a:hover {
+   text-decoration: underline;
+   text-align: center;
+}
